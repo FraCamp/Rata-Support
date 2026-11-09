@@ -10,4 +10,5 @@ If you are experiencing any issues, found a bug, or have feature requests, pleas
 * **Terms of Use:** [Apple Standard EULA](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
 
 ---
-*© 2026 [Francesco Campilongo]. Tutti i diritti riservati. Apple, il logo Apple, iPhone e App Store sono marchi di Apple Inc., registrati negli Stati Uniti e in altri Paesi.*
+*© 2026 Francesco Campilongo. 
+Tutti i diritti riservati. Apple, il logo Apple, iPhone e App Store sono marchi di Apple Inc., registrati negli Stati Uniti e in altri Paesi.*
