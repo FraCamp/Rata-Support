@@ -1,4 +1,4 @@
-# Privacy Policy (English Version) — [Rata]
+# Rata - Privacy Policy
 
 *Last updated: November 2026*
 
@@ -22,5 +22,3 @@ The App relies on the following trusted third-party infrastructure providers:
 
 ### 5. Your Rights
 Under the GDPR, you have the right to access, rectify, export, or erase your personal data at any time by contacting the developer at the email address listed above.
-
-[Torna alla pagina di Supporto](./)
