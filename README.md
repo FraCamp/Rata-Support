@@ -1,5 +1,5 @@
 
-## RATA - Support & Information
+## Rata - Support & Information
 
 **Need help with Rata?**
 If you are experiencing any issues, found a bug, or have feature requests, please reach out directly:
