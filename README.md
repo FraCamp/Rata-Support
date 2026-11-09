@@ -11,4 +11,5 @@ If you are experiencing any issues, found a bug, or have feature requests, pleas
 
 ---
 *© 2026 Francesco Campilongo. 
-Tutti i diritti riservati. Apple, il logo Apple, iPhone e App Store sono marchi di Apple Inc., registrati negli Stati Uniti e in altri Paesi.*
+All rights reserved. 
+Apple, the Apple logo, iPhone, and App Store are trademarks of Apple Inc., registered in the United States and other countries.*
