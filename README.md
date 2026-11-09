@@ -1,7 +1,7 @@
 
-## 🌍 English Support & Information
+## RATA - Support & Information
 
-**Need help with [Rata]?**
+**Need help with Rata?**
 If you are experiencing any issues, found a bug, or have feature requests, please reach out directly:
 
 * **Support Email:** [francesco.campilongo.4@gmail.com](mailto:tua-email@dominio.com)
